@@ -2,7 +2,7 @@ MapForge
 
 Live link: https://mapforge-7962ukihf.vercel.app/
 
-Client repo: https://github.com/greynagle/mapforge
+Client repo: https://github.com/ksalcce/MapForgeAPP
 
 Sample login
 Username: naglegrey
